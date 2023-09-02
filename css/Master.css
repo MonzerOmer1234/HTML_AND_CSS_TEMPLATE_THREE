@@ -916,6 +916,20 @@ a i{
     right: -10px;
     border: 10px solid #ececec;
 }
+@media (max-width:767px){
+    .testimonials .box > div img{
+        right: 0;
+        
+    } 
+}
+
+
+
+
+
+
+
+
 .testimonials .box h1{
     font-size: 20px;
     padding: 2px 10px;
