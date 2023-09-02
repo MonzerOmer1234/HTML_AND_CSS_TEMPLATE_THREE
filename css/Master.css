@@ -919,8 +919,8 @@ a i{
 @media (max-width:767px){
     .testimonials .box > div img{
         right: 0;
-        width: 20px;
-        height: 20px;
+        width: 100px;
+        height: 100px;
     } 
 }
 
